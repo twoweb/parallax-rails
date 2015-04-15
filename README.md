@@ -20,7 +20,6 @@ Add to your app/assets/javascripts/application.js
 ```
     //= require parallax
     //= require jquery.parallax
-    
 ```
 
 
