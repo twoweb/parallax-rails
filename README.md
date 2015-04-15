@@ -42,6 +42,7 @@ Or application.css:
 Usage documentation as well as demos can be found at:
 
 http://matthew.wagerfield.com/parallax/
+
 https://github.com/wagerfield/parallax
 
 
