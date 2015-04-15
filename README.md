@@ -24,19 +24,6 @@ Add to your app/assets/javascripts/application.js
 ```
 
 
-And to your app/assets/stylesheets/application.css.sass or application.css.scss
-
-
-```
-    @import parallax-custom
-```
-
-Or application.css:
-
-```
-    *= require parallax-custom
-```
-
 ## Documentation
 
 Usage documentation as well as demos can be found at:
